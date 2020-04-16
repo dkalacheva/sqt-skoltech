@@ -1,5 +1,7 @@
 # sqt-skoltech-2020
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dkalacheva/sqt-skoltech-2020/master)
+
 This repository contains lectures and problem sets for the Superconducting Quantum Technologies course in Skoltech Spring 2020. As the class progresses, the table will be updated.
 
 | Week | Lectures | Supplementary materials | Homework | 
