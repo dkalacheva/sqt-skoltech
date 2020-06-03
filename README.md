@@ -11,3 +11,4 @@ This repository contains lectures and problem sets for the Superconducting Quant
 |3| Lecture 5 [[GitHub](Lectures/SQT_2020_5.pdf)] <br> Lecture 6 [[GitHub](Lectures/SQT_2020_6.pdf)] | | Transmission line resonators [[Github](HW3-TL-resonators/HW3-TL-resonators.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/dkalacheva/sqt-skoltech-2020/blob/master/HW3-TL-resonators/HW3-TL-resonators.ipynb)] <br> ~~(Deadline: 14.05.2020 21:00)~~|
 |4| Lecture 7 [[Github](Lectures/SQT_2020_7.pdf)] | Seminar 4 [[Github](Seminars/Seminar-microwave-sqt-part1.pdf)] | |
 |5| Lecture 8 [[Github](Lectures/SQT_2020_8.pdf)] <br> Lecture 9 [[Github](Lectures/SQT_2020_9.pdf)] | | |
+|6| Lecture 10 [[Github](Lectures/SQT_2020_10.pdf)] | | |
