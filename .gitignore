@@ -2,3 +2,10 @@
 .DS_Store
 *.pyc
 .psd
+scripts
+autograded
+feedback
+source
+release
+submitted
+__pycache__
