@@ -1,8 +1,8 @@
-.ipynb_checkpoints
-.DS_Store
+*.ipynb_checkpoints
+*.DS_Store
 *.pyc
-.psd
-.db
+*.psd
+*.db
 scripts
 autograded
 feedback
