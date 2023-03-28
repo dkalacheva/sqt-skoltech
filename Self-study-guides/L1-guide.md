@@ -30,9 +30,9 @@ Find answers for the following questions
 
 4. What is the difference between a ground and an excited state of a qubit? Mathematical notations for a ground and excited state of qubit?
 
-5. How many qubits are needed to make the following state |1001⟩?
+5. How many qubits are needed to make the following state $\vert 1001\rangle$?
 
-6. When a spin 1/2 is used to make a qubit, what is its ground state and excited state?
+6. When a spin $\frac{1}{2}$ is used to make a qubit, what is its ground state and excited state?
 
 7. When a Rydberg atom is used to make a qubit, what is its ground state and excited state?
 
@@ -50,9 +50,9 @@ Find answers for the following questions
 
 2. Make sure you understand what is a quantum operator? What  is the physical meaning of the expectation value for the quantum operator?
 
-3. Can you write down matrix representation of the wavefunction |3⟩ in a number basis?
+3. Can you write down matrix representation of the wavefunction $\vert 3\rangle$ in a number basis?
 
-4. Can you write down matrix representation of an operator that swaps  |ψ_1⟩ and  |ψ_2⟩ in the basis {|ψ_1⟩,|ψ_2⟩}? Find eigenstates and eigenvalues of that operator.
+4. Can you write down matrix representation of an operator that swaps  $\vert \psi_1\rangle$ and  $\vert \psi_2\rangle$ in the basis $\{\vert\psi_1\rangle,\vert\psi_2\rangle\}$? Find eigenstates and eigenvalues of that operator.
 
 ## The Hamiltonians of a two-level system and the wavefunction. Bloch sphere
 
@@ -85,19 +85,3 @@ Consider the Hamiltonian from the previous section.
 4. Find an evolution operator for a case when $\varepsilon=0$ and $\Delta>0$. Using the evolution operator, compute evolution of both basis states $\vert 0\rangle$ and $\vert 1\rangle$ in such system. How long will it take for the system to change its state from $\vert 0\rangle$ to $\vert 1\rangle$? From $\vert 0\rangle$ to $\frac{\vert 0\rangle + i\vert 1\rangle}{\sqrt{2}}$?
 
 5. Propose a method to control a relative phase $\varphi$ in $\vert\Psi\rangle=\cos\frac{\theta}{2}\vert 0\rangle+e^{i\varphi}\sin\frac{\theta}{2}\vert 1\rangle$.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
