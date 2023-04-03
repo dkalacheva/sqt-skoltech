@@ -191,9 +191,7 @@ to aid understanding the paper.
    
    a.  A nanometer-scale semiconductor device
    
-   b.  A superconducting electrode connected to a reservoir via a
-   
-       Josephson junction
+   b.  A superconducting electrode connected to a reservoir via a Josephson junction
    
    c.  A quantum dot containing a single electron
    
