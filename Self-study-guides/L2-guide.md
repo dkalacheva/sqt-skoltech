@@ -1,4 +1,4 @@
-# Self-study guide for the 2^nd^ lecture of the course "Superconducting quantum technologies"
+# Self-study guide for the 2nd lecture of the course "Superconducting quantum technologies"
 
 ## Superconductivity. Josephson junction. Josephson energy
 
