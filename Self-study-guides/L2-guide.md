@@ -54,7 +54,7 @@ internet.
     obtain A and B coefficients. After that calculate superconducting
     current through a Josephson junction using the current equation from
     quantum mechanics
-    $I = - i2e\frac{\hslash}{2m}\left( \Psi^{*}\frac{\partial}{\partial x}\Psi - \Psi\frac{\partial}{\partial x}\Psi^{*}\  \right)$.
+    $I = - i2e\frac{\hslash}{2m}\left( \Psi^{\star}\frac{\partial}{\partial x}\Psi - \Psi\frac{\partial}{\partial x}\Psi^{\star}\  \right)$.
 
 12. Derive a formula for the Josephson energy, by computing how much
     work is done by switching a superconducting current through a
