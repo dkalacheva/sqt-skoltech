@@ -229,9 +229,7 @@ to aid understanding the paper.
    
    c.  The two charge states become degenerate
    
-   d.  The wavefunction coherently evolves between $|0\rangle$ and
-   
-       $|2\rangle$
+   d.  The wavefunction coherently evolves between $|0\rangle$ and $|2\rangle$
 
 6. How is the resulting state detected?
    
@@ -247,9 +245,7 @@ to aid understanding the paper.
    
    a.  The energy difference between the two lowest-energy states
    
-   b.  The energy required for Cooper pairs to tunnel through the
-   
-       Josephson junction
+   b.  The energy required for Cooper pairs to tunnel through the Josephson junction
    
    c.  The energy required to create a highly resistive probe junction
    
